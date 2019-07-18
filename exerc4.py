@@ -15,4 +15,4 @@ if delta>=0:
     print('Resultado X1:', x1)
     print('Resultado X2:', x2)
 else:
-    print('Delta negativo. Não foi possível')
+    print('Não é possível calcular. Delta negativo.')
